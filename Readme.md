@@ -1,5 +1,5 @@
 # 1. Clone the structure
-git clone https://github.com/your-org/nexus-omega-prototype.git
+git clone https://github.com/gaineziswear/nexus-omega-prototype.git
 cd nexus-omega-prototype
 
 # 2. Make scripts executable
